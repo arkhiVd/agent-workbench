@@ -48,6 +48,6 @@ Exit criteria:
 
 ## Phase 5: publication readiness
 
-Status: in progress
+Status: complete
 
 Run all checks, privacy review, link review, and independent fresh-context review. Prepare the GitHub repository without merging or publishing until the human approves the final diff.

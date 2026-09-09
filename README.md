@@ -1,6 +1,6 @@
-# Agent-assisted development workflow
+# Agent Workbench
 
-A public, tool-aware workflow for building software with coding agents while keeping requirements, validation, review, merge, and deployment under human control.
+Skills, workflows, knowledge systems, and coordination patterns for agent-assisted development, with requirements, validation, review, merge, and deployment kept under human control.
 
 The core loop is:
 
